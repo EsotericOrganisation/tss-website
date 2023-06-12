@@ -12,8 +12,8 @@
 		"esModuleInterop": true,
 		"skipLibCheck": true,
 		"forceConsistentCasingInFileNames": true,
-		"rootDir": "src",
-		"outDir": "dist",
+		"rootDir": "src/typescript",
+		"outDir": "src/javascript",
 		"removeComments": true,
 		"sourceMap": true,
 		"noUnusedParameters": true,
@@ -29,6 +29,6 @@
 		"sourceRoot": "./src"
 	},
 	"exclude": ["node_modules", "dist"],
-	"include": ["src"],
+	"include": ["src/typescript"],
 	"watch": true
 }
