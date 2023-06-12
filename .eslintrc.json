@@ -27,6 +27,7 @@
 		"for-direction": "error",
 		"camelcase": "error",
 		"no-const-assign": "error",
+		"no-mixed-spaces-and-tabs": "off",
 		"no-case-declarations": "off",
 		"no-dupe-args": "error",
 		"no-dupe-class-members": "error",
