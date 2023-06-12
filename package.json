@@ -1,0 +1,57 @@
+{
+	"name": "the-slimy-swamp",
+	"description": "This is a simple website created by @🍉 Slqmy#5014 for The Slimy Swamp. The website's main purpose is to be a hub for information about The Slimy Swamp.",
+	"author": "@🍉 Slqmy#5014",
+	"version": "0.0.1",
+	"license": "ISC",
+	"keywords": [
+		"javascript",
+		"css",
+		"html",
+		"website",
+		"js",
+		"html-css",
+		"cascading-style-sheets",
+		"java-script",
+		"css-js",
+		"html-css-javascript",
+		"html-css-js",
+		"html-js-css",
+		"html-js",
+		"hypertext-markup-language",
+		"css-html",
+		"html-css-js-project",
+		"hypertextmarkuplanguage",
+		"cascadingstylesheets",
+		"the-slimy-swamp",
+		"theslimyswamp"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Slqmy/The-Slimy-Swamp.git"
+	},
+	"homepage": "https://github.com/Slqmy/The-Slimy-Swamp#readme",
+	"bugs": {
+		"url": "https://github.com/Slqmy/The-Slimy-Swamp/issues"
+	},
+	"scripts": {
+		"prettier": "npx prettier --write .",
+		"format": "npx prettier --write .",
+		"prettier:check": "npx prettier --check .",
+		"format:check": "npx prettier --check .",
+		"check-prettier": "npx prettier --check .",
+		"eslint": "npx eslint --fix .",
+		"eslint:check": "npx eslint ."
+	},
+	"devDependencies": {
+		"@types/node": "^20.2.6",
+		"@typescript-eslint/eslint-plugin": "^5.59.9",
+		"@typescript-eslint/parser": "^5.59.9",
+		"@html-eslint/eslint-plugin": "^0.19.0",
+		"@html-eslint/parser": "^0.19.0",
+		"eslint": "^8.42.0",
+		"eslint-plugin-html": "^7.1.0",
+		"prettier": "2.8.8",
+		"typescript": "^5.1.3"
+	}
+}
