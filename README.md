@@ -1,7 +1,8 @@
-# The Slimy Swamp
+# 🌌 The Slimy Swamp 🌳
 
-This is a simple website created by @🍉 Slqmy#5014 for [The Slimy Swamp](https://www.discord.gg/SjAGgJaCYc).
-The website's main purpose is to be a hub for information about The Slimy Swamp.
+This is a simple website created by [Slqmy](https://github.com/Slqmy) for 🌌 [The Slimy Swamp](https://www.discord.gg/SjAGgJaCYc) 🌳.
+
+The website's main purpose is to be a hub for information about `🌌 The Slimy Swamp 🌳`.
 
 ## To-Do List
 
@@ -16,3 +17,5 @@ The website's main purpose is to be a hub for information about The Slimy Swamp.
 - [ ] Voting links
 - [ ] List of staff members
 - [ ] A link for support
+
+[![ISC License](https://img.shields.io/badge/License-ISC-green.svg)](https://choosealicense.com/licenses/isc/)
