@@ -1,8 +1,6 @@
-# 🌌 The Slimy Swamp 🌳
+# The Slimy Swamp
 
-This is a simple website created by [EsotericEnderman](https://github.com/EsotericEnderman) for 🌌 [The Slimy Swamp](https://www.discord.gg/SjAGgJaCYc) 🌳.
-
-The website's main purpose is to be a hub for information about `🌌 The Slimy Swamp 🌳`.
+> A hub of information for The Slimy Swamp.
 
 ## To-Do List
 
