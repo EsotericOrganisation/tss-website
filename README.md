@@ -17,5 +17,3 @@ The website's main purpose is to be a hub for information about `🌌 The Slimy 
 - [ ] Voting links
 - [ ] List of staff members
 - [ ] A link for support
-
-[![ISC License](https://img.shields.io/badge/License-ISC-green.svg)](https://choosealicense.com/licenses/isc/)
