@@ -2,6 +2,8 @@
 
 > A hub of information for The Slimy Swamp.
 
+The Slimy Swamp used to be a Minecraft & Discord server, which were planned to be developed heavily. However, development ceased after [@EsotericEnderman](https://github.com/EsotericEnderman) abandoned the project.
+
 ## To-Do List
 
 - [ ] Animated title and icon popup for when the website is loaded
