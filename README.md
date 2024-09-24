@@ -6,7 +6,7 @@
 
 - [ ] Animated title and icon popup for when the website is loaded
 - [ ] Navigation bar on top of the screen
-- [ ] Title and icon in the navigation bar
+- [X] Title and icon in the navigation bar
 - [ ] Sidebar with more navigation buttons
 - [ ] Home page with information and an introduction
 - [ ] News board
