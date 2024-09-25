@@ -2,7 +2,7 @@
 
 > A hub of information for The Slimy Swamp.
 
-The Slimy Swamp used to be a Minecraft server developed by [@EsotericEnderman](https://github.com/EsotericEnderman) and [@rolyPolyVole](https://github.com/rolyPolyVole), which was planned to be further heavily developed. However, development ceased after [@EsotericEnderman](https://github.com/EsotericEnderman) abandoned the project.
+The Slimy Swamp used to be a planned Minecraft server developed by [@EsotericEnderman](https://github.com/EsotericEnderman) and [@rolyPolyVole](https://github.com/rolyPolyVole), which was planned to be further heavily developed. However, development ceased after [@EsotericEnderman](https://github.com/EsotericEnderman) abandoned the project.
 
 It was essentially the precursor to the [Esoteric Organisation](https://github.com/EsotericOrganisation).
 
