@@ -1,4 +1,4 @@
-# The Slimy Swamp
+# The Slimy Swamp Website
 
 > A hub of information for The Slimy Swamp.
 
